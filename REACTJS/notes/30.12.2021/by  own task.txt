@@ -1,0 +1,120 @@
+
+ By own work ;;;;;;;;;;;;
+....................................
+//...................................................
+//find particular percent is in which garde or it is fail  using //function
+// function grade(a){
+// if (a>=90 && a<=100){
+//   console.log("it is grade A");
+// }
+// else if(a>=80 && a<90){
+//   console.log("it is grade B");
+// }
+// else if(a>=70 && a<80){
+//   console.log("it is grade c");
+// }
+// else{
+//   console.log("it is fail")
+// }
+
+// }
+//  grade(80);
+
+////............................................................
+//taking the array and doing square and put in  a anoher array 
+// a=[1,2,3,4,5]
+// b=[]
+// for(i=0;i<a.length;i++){
+//   b[i]=a[i]**2;
+// }
+// console.log(b);
+
+//.....................................................
+//WAP to create two resultant array one with even numbers and another with odd numbers.
+/*
+a = [11,23,12,24,56,3,4,78,55]
+e=[]
+o=[]
+for(i=0;i<a.length;i++){ 
+      if (a[i]%2==0){
+         e.push(a[i]);
+       
+      }
+   else
+       o.push(a[i]);
+    
+}
+console.log(a);
+  console.log("even =",e);
+  console.log("odd =" ,o);
+
+*/
+//...........................................
+//use function for multiple output only it is happening in javascript::::::
+// function calculate(a,b){
+//    add =a+b;
+//     sub=b-a;
+//   return {add,sub};
+//   }
+//  calculate(20,50);
+//.............................................
+
+// NOTE:
+//  IF IS USING CONSOLE IT IS SHOWING THE OUTPUT BUT IT'S OUTPUT NOT BE USED IN  FURTHER ... BUT IN PLACE OF CONSOLE WHEN I USED RETURN  IT'S OUTPUT WILL BW USED IN FURTHER
+//.........................................
+//USING FUNCTION FOR MULTIPLE RETURN OUTPUT
+
+//  function evenOdd(a){
+//      a=[21,15,9,18,10,52,63,47,34];
+   
+//      even=a.filter(i=>i%2==0)
+//      odd=a.filter(i=>i%2!==0)
+//     return {even,odd}
+//  }
+// console.log(evenOdd());
+
+//...................................
+ //OOPS CONCEPT:::::::::::::::::.............=========
+
+
+[2:20 pm, 30/12/2021] +91 86809 80924: /accessing object values from JSON
+
+std = {id:101,name:"Rajesh"}
+
+console.log(std.id);
+console.log(std['name']);
+
+[2:20 pm, 30/12/2021] +91 86809 80924: 
+
+// class calculator21{
+  
+//   constructor(a,b)
+//   {
+//     this.a=a;
+//     this.b=b;
+//   }
+  
+//   add(){
+//     return this.a+this.b;
+//   }
+  
+//   sub(){
+//     return this.a-this.b;
+//   }
+  
+//   mul()
+//   {
+//     return this.a*this.b;
+//   }
+  
+//   div()
+//   {
+//     return this.a/this.b;
+//   }
+// }
+
+obj = new calculator21(10,5);
+console.log(obj.add());
+console.log(obj.sub());
+console.log(obj.mul());
+console.log(obj.div());

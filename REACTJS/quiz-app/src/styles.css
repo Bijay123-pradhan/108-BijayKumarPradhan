@@ -1,0 +1,43 @@
+.App{
+    text-align: center;
+    font-family: Arial;
+}
+
+.selected {
+    background: rgb(241, 238, 4) !important;
+}
+
+.options {
+    padding: 8px;
+    border: 3px solid rgb(233, 7, 56);
+    border-radius: 50px;
+    cursor: pointer;
+    width:100%;
+    background-color: rgb(56, 218, 230);
+    color: rgb(1, 9, 15);
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    margin: 5px;
+}
+
+body{
+    display: flex;
+    justify-content: center;    
+    color:rgb(220, 243, 10);
+    font-family: 'Segoe UI',;
+    font-size: 18px;
+    background: url("https://images.unsplash.com/photo-1594398985750-3b54ec074a0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+    /* //width: auto; */
+ }
+ .ui inverted button{
+    border: 3px solid rgb(94, 16, 33);  
+    color:aqua;
+    font-weight: 100;
+    
+ }

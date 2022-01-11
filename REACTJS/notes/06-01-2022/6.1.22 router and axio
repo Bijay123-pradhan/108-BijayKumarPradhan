@@ -1,0 +1,12 @@
+React Routing
+react does not provide built in support for routing, we can use routing in react app using react-router-dom
+
+axios - for fetching API
+
+npm install react-router-dom axios
+
+1. BrowserRouter --> which provides pretty urls
+
+/home
+2. Routes --> switching between routes/ collection of Route
+3. Route --> individual route
