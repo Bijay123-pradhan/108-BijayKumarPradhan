@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Print Even or odd from 1 to 50</title>
+</head>
+
+
+ 
+<body style="text-align: center;">
+ 
+    <h1 style="color: green">
+        Count Word & Letter
+    </h1>
+ 
+     
+<p>
+        Type in the textbox and click on
+        the button to count the words and Letters
+    </p>
+ 
+ <input type="text" id="inputField">
+ 
+    <br><br>
+ 
+    <button onclick="countWords()">
+        Count Words
+    </button>
+    <br><br>
+ 
+     
+<p> Word Count:
+        <span id="show">0</span>
+Letter Count:
+        <span id="shows">0</span>
+    </p>
+ 
+ 
+ 
+    <script>
+        function countWords() {
+
+            var text = document
+                .getElementById("inputField").value;
+            var numWords = 0;
+            var count=0;
+
+            for (var i = 0; i < text.length; i++) {
+                var currentLetter = text[i];
+
+                if (currentLetter == " ") {
+                    numWords += 1;
+                }
+                if(currentLetter!=' '){
+                    count=count+1;
+                }
+            }
+ 
+            numWords += 1;
+ 
+            document.getElementById("show")
+                .innerHTML = numWords;
+                document.getElementById("shows")
+                .innerHTML = count;
+        }
+    </script>
+</body>
+ 
+</html>
+
