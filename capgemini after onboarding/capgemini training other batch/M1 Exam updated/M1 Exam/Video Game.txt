@@ -1,0 +1,54 @@
+import java.util.*;
+class User {
+String name;
+int balance;
+User(String name, int balance) {
+this.name = name;
+this.balance = balance;
+}
+void addBalance(int amount) {
+balance = balance + amount;
+}
+String currentBalance() {
+return "Hello " + name + " your account balance is " + balance;
+}
+}
+class Game {
+HashMap<String, Integer> map = new HashMap<String, Integer>();
+String playGame(String gameName, User details) {
+Set<HashMap.Entry<String, Integer>> setMap = map.entrySet();
+Iterator<HashMap.Entry<String, Integer>> itr = setMap.iterator();
+while (itr.hasNext()) {
+HashMap.Entry<String, Integer> current = itr.next();
+if (current.getKey().equals(gameName)) {
+details.balance = details.balance - current.getValue();
+return "Hello " + details.name + ", thanks for playing " +
+gameName + " and your current balance is "
++ details.balance;
+}
+}
+return "Game not found";
+}
+void addGame(String gameName, int gamePrice) {
+map.put(gameName, gamePrice);
+}
+}
+public class VideoGame {
+public static void main(String[] args) {
+User user1 = new User("Shalini", 200);
+User user2 = new User("Avila", 300);
+System.out.println(user1.currentBalance());
+System.out.println(user2.currentBalance());
+System.out.println();
+user1.addBalance(50);
+user2.addBalance(40);
+System.out.println(user1.currentBalance());// 250
+System.out.println(user2.currentBalance());// 340
+Game game = new Game();
+game.addGame("Ludo", 50);
+game.addGame("Chess", 30);
+System.out.println();
+System.out.println(game.playGame("Chess", user1));
+System.out.println(game.playGame("Ludo", user2));
+}
+}

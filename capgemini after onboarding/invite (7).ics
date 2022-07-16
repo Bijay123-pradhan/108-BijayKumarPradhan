@@ -1,0 +1,972 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:India Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN="Ramakrishnan, Hiranmai":mailto:hiranmai.ramakrishnan@capgemini.
+ com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Mahato, Ma
+ nisha":mailto:manisha.mahato@capgemini.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Raghu, Aru
+ nagiri":mailto:arunagiri.raghu@capgemini.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Wadkar, Vi
+ shal":mailto:vishal.wadkar@capgemini.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Yuvaraj, P
+ oornima":mailto:poornima.yuvaraj@capgemini.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Dixit, Sha
+ rad":mailto:sharad.dixit@capgemini.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Shubhang B
+ urde, Gauri":mailto:gauri.shubhang-burde@capgemini.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Nakkeeran,
+  Sony":mailto:sony.p-k@capgemini.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Shivanna, 
+ Onkaramurthy":mailto:onkaramurthy.shivanna@capgemini.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=khan.abdul
+ lah3098@gmail.com:mailto:khan.abdullah3098@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=mr.puspend
+ ukhan@gmail.com:mailto:mr.puspendukhan@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=upasanamaj
+ hi999@gmail.com:mailto:upasanamajhi999@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=swain.bina
+ mrabikash2001@gmail.com:mailto:swain.binamrabikash2001@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=nethra.mj1
+ 23@gmail.com:mailto:nethra.mj123@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=muhadshaik
+ h@gmail.com:mailto:muhadshaikh@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=themohamme
+ dsarfaraaz@gmail.com:mailto:themohammedsarfaraaz@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=jagadishpa
+ til009@gmail.com:mailto:jagadishpatil009@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=dasranjeet
+ a00@gmail.com:mailto:dasranjeeta00@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sreekumard
+ evalla113@gmail.com:mailto:sreekumardevalla113@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=vinaik730@
+ gmail.com:mailto:vinaik730@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=pguna790@g
+ mail.com:mailto:pguna790@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=jyothijyo4
+ 99@gmail.com:mailto:jyothijyo499@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=chunchunav
+ ya429@gmail.com:mailto:chunchunavya429@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=surajmadda
+ la@yahoo.com:mailto:surajmaddala@yahoo.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=aishwarya7
+ 998@gmail.com:mailto:aishwarya7998@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=poojithani
+ mmagadda595@gmail.com:mailto:poojithanimmagadda595@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Chaithramc
+ handu99@gmail.com:mailto:Chaithramchandu99@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=anamikamai
+ ty357@gmail.com:mailto:anamikamaity357@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=harshitec1
+ 011@gmail.com:mailto:harshitec1011@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ankitshaw5
+ 04@gmail.com:mailto:ankitshaw504@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=vikram.kj1
+ 2@gmail.com:mailto:vikram.kj12@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=anjichandr
+ ashekhar13@gmail.com:mailto:anjichandrashekhar13@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=oggusaikum
+ ar@gmail.com:mailto:oggusaikumar@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=kandagatla
+ srimanganesh8686@gmail.com:mailto:kandagatlasrimanganesh8686@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=pradeepkri
+ shna762@gmail.com:mailto:pradeepkrishna762@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=rajanichou
+ guale113@gmail.com:mailto:rajanichouguale113@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=deolia.ayu
+ 14shi@gmail.com:mailto:deolia.ayu14shi@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=rajenivash
+ @gmail.com:mailto:rajenivash@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sameerkuma
+ rsahu0@gmail.com:mailto:sameerkumarsahu0@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=abhilashka
+ shyap.123456@gmail.com:mailto:abhilashkashyap.123456@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=abhi.shr08
+ 6@gmail.com:mailto:abhi.shr086@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=tappasadda
+ mhussain@gmail.com:mailto:tappasaddamhussain@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=styloshada
+ b786@gmail.com:mailto:styloshadab786@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=karurajayk
+ umar18@gmail.com:mailto:karurajaykumar18@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=samantsura
+ j2619@gmail.com:mailto:samantsuraj2619@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=avigupt166
+ @gmail.com:mailto:avigupt166@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=maggisvu28
+ @gmail.com:mailto:maggisvu28@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sunilsuni0
+ 538@gmail.com:mailto:sunilsuni0538@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=meghanakhs
+ pt@gmail.com:mailto:meghanakhspt@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sunilkumar
+ giri52@gmail.com:mailto:sunilkumargiri52@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=rr2118319@
+ gmail.com:mailto:rr2118319@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=divyavadla
+ 0602@gmail.com:mailto:divyavadla0602@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=meghavs702
+ 2@gmail.com:mailto:meghavs7022@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=rohitlaxma
+ ngupta@gmail.com:mailto:rohitlaxmangupta@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sharanyach
+ .2105@gmail.com:mailto:sharanyach.2105@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Madhu41251
+ @gmail.com:mailto:Madhu41251@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ayubferoz1
+ 23@gmail.com:mailto:ayubferoz123@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=srilakshmi
+ payyavula16@gmail.com:mailto:srilakshmipayyavula16@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=harithadeg
+ ala@gmail.com:mailto:harithadegala@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=maheshchep
+ uri789@gmail.com:mailto:maheshchepuri789@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=naveenadus
+ umalli23@gmail.com:mailto:naveenadusumalli23@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=dirisanapu
+ s@gmail.com:mailto:dirisanapus@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=vedaalekhy
+ a9951@gmail.com:mailto:vedaalekhya9951@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sharadagol
+ em@gmail.com:mailto:sharadagolem@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=mounika.j4
+ 68@gmail.com:mailto:mounika.j468@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=harijanasu
+ chitra1999@gmail.com:mailto:harijanasuchitra1999@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=vamshimami
+ dala66@gmail.com:mailto:vamshimamidala66@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=hari1994p@
+ gmail.com:mailto:hari1994p@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sowmyathun
+ ikipati@gmail.com:mailto:sowmyathunikipati@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=vyshnavija
+ gupilla@gmail.com:mailto:vyshnavijagupilla@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Kirankumar
+ reddy8142@gmail.com:mailto:Kirankumarreddy8142@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sravanisan
+ vi28@gmail.com:mailto:sravanisanvi28@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=nandivada.
+ harika@gmail.com:mailto:nandivada.harika@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=pandalabha
+ rgavi1998@gmail.com:mailto:pandalabhargavi1998@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=prasannako
+ tla123@gmail.com:mailto:prasannakotla123@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=pravalika.
+ 68653@gmail.com:mailto:pravalika.68653@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=kamalvamsh
+ i3@gmail.com:mailto:kamalvamshi3@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=vaishnavip
+ enchala@gmail.com:mailto:vaishnavipenchala@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=suchitrabt
+ 96@gmail.com:mailto:suchitrabt96@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=manushanka
+ rrl@gmail.com:mailto:manushankarrl@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=thangamlak
+ shmi1604@gmail.com:mailto:thangamlakshmi1604@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=zainahmed0
+ 1997@gmail.com:mailto:zainahmed01997@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=guptaakhil
+ esh670@gmail.com:mailto:guptaakhilesh670@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=hshrinivas
+ ph1010@gmail.com:mailto:hshrinivasph1010@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=blokesh003
+ @gmail.com:mailto:blokesh003@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=siddhimand
+ avkar18@gmail.com:mailto:siddhimandavkar18@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ashiva6249
+ @gmail.com:mailto:ashiva6249@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sachinsb64
+ 3@gmail.com:mailto:sachinsb643@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=rocksssrak
+ krajesh@gmail.com:mailto:rocksssrakkrajesh@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=jishnumadh
+ u007@gmail.com:mailto:jishnumadhu007@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sambodhiwa
+ dkar@gmail.com:mailto:sambodhiwadkar@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=kalmatraks
+ hu@gmail.com:mailto:kalmatrakshu@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=bhuvaneshb
+ ijjam@gmail.com:mailto:bhuvaneshbijjam@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=nanidinesh
+ 0929@gmail.com:mailto:nanidinesh0929@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=prarthanaj
+ aya97280@gmail.com:mailto:prarthanajaya97280@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sachinhgow
+ da00@gmail.com:mailto:sachinhgowda00@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sanmukhpra
+ sad1999@gmail.com:mailto:Sanmukhprasad1999@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=thimmaraj2
+ 727@gmail.com:mailto:thimmaraj2727@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=kota.vasav
+ i99@gmail.com:mailto:kota.vasavi99@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=krishnasai
+ 2703@gmail.com:mailto:krishnasai2703@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=vdev0756@g
+ mail.com:mailto:vdev0756@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ajayghule2
+ 020@gmail.com:mailto:ajayghule2020@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ashishanan
+ d0706@gmail.com:mailto:ashishanand0706@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=pravallika
+ mani564@gmail.com:mailto:pravallikamani564@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Kundan38kd
+ @gmail.com:mailto:Kundan38kd@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=lokeshkuma
+ rreddy69@gmail.com:mailto:lokeshkumarreddy69@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=taherimshe
+ ikh2000@gmail.com:mailto:taherimsheikh2000@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=i6ee067@sa
+ iramtap.edu.in:mailto:i6ee067@sairamtap.edu.in
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=anjumvargh
+ ese03@gmail.com:mailto:anjumvarghese03@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=jyothsna78
+ 96@gmail.com:mailto:jyothsna7896@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=jkpriya962
+ @gmail.com:mailto:jkpriya962@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=bhuvanakk9
+ 9@gmail.com:mailto:bhuvanakk99@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=monicakuma
+ rece@gmail.com:mailto:monicakumarece@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Kamnaraj24
+ 97@gmail.com:mailto:Kamnaraj2497@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=simranbani
+ 97@gmail.com:mailto:simranbani97@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=shailjahar
+ bola22@gmail.com:mailto:shailjaharbola22@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=elsaesther
+ biju@gmail.com:mailto:elsaestherbiju@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=arunabhi31
+ 14@gmail.com:mailto:arunabhi3114@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=s.debarati
+ 02061998@gmail.com:mailto:s.debarati02061998@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=smitaraghu
+ 1997@gmail.com:mailto:smitaraghu1997@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=monikasing
+ h0626@gmail.com:mailto:monikasingh0626@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=diyatg17@g
+ mail.com:mailto:diyatg17@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=shivani22g
+ aur@gmail.com:mailto:shivani22gaur@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=harshitasi
+ ngh845@gmail.com:mailto:harshitasingh845@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=agrawalshr
+ ishti39@gmail.com:mailto:agrawalshrishti39@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=anjaliec10
+ 04@gmail.com:mailto:anjaliec1004@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=shreya0504
+ @gmail.com:mailto:shreya0504@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=mithunk.pe
+ c@gmail.com:mailto:mithunk.pec@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=gayathrira
+ mamoorthy78@gmail.com:mailto:gayathriramamoorthy78@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sangeetham
+ urugan778@gmail.com:mailto:sangeethamurugan778@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=poornipala
+ ni98@gmail.com:mailto:poornipalani98@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=amuthaammu
+ 2507@gmail.com:mailto:amuthaammu2507@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=vsaishu110
+ @gmail.com:mailto:vsaishu110@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=hemapallel
+ a1997@gmail.com:mailto:hemapallela1997@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=geetha1998
+ .gs@gmail.com:mailto:geetha1998.gs@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=rajeshwari
+ raja035@gmail.com:mailto:rajeshwariraja035@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=shuklaayus
+ hi746@gmail.com:mailto:shuklaayushi746@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=shreyank96
+ @gmail.com:mailto:shreyank96@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=singhabhil
+ asha3006bbdnitm@gmail.com:mailto:singhabhilasha3006bbdnitm@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=chaitanyar
+ aj5338@gmail.com:mailto:chaitanyaraj5338@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=jayantalay
+ ek16@gmail.com:mailto:jayantalayek16@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=anshimaa96
+ @gmail.com:mailto:anshimaa96@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=kingshuksa
+ rkar2024@gmail.com:mailto:kingshuksarkar2024@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=rahulrai13
+ 17@gmail.com:mailto:rahulrai1317@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=jewelroypg
+ ec@gmail.com:mailto:jewelroypgec@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=acabhishek
+ 18@gmail.com:mailto:acabhishek18@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=iamprithvi
+ raj40@gmail.com:mailto:iamprithviraj40@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=rburman009
+ 6@gmail.com:mailto:rburman0096@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=rimjhim.mi
+ shra0804@gmail.com:mailto:rimjhim.mishra0804@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=anshumishr
+ a1199@gmail.com:mailto:anshumishra1199@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=nneelam083
+ @gmail.com:mailto:nneelam083@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=monalishin
+ de9999@gmail.com:mailto:monalishinde9999@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sakshivinc
+ hurkar6@gmail.com:mailto:sakshivinchurkar6@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=roshanibhu
+ te03@gmail.com:mailto:roshanibhute03@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=harshalij3
+ 17@gmail.com:mailto:harshalij317@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=kajal.pedn
+ ekar98@gmail.com:mailto:kajal.pednekar98@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=salideepal
+ i28@gmail.com:mailto:salideepali28@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=bhagyasrim
+ angina123@gmail.com:mailto:bhagyasrimangina123@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=gosatharan
+ i@gmail.com:mailto:gosatharani@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Saloni98sd
+ @gmail.com:mailto:Saloni98sd@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=chswara199
+ 8@gmail.com:mailto:chswara1998@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=anushreev2
+ 298@gmail.com:mailto:anushreev2298@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=priyagagan
+ a17@gmail.com:mailto:priyagagana17@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=maitrikk44
+ @gmail.com:mailto:maitrikk44@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=917743nikk
+ y@gmail.com:mailto:917743nikky@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=dikshadury
+ odhan9@gmail.com:mailto:dikshaduryodhan9@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=mariyapush
+ pamr@gmail.com:mailto:mariyapushpamr@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=swathisri9
+ 7kella@gmail.com:mailto:swathisri97kella@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=vanamsaksh
+ ara@gmail.com:mailto:vanamsakshara@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=mantripoon
+ am07@gmail.com:mailto:mantripoonam07@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=nehakumari
+ 1415@gmail.com:mailto:nehakumari1415@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=shashankbh
+ at51@gmail.com:mailto:shashankbhat51@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=banerjees8
+ 92@gmail.com:mailto:banerjees892@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=gautam8446
+ @gmail.com:mailto:gautam8446@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=tejaswiniy
+ eola70@gmail.com:mailto:tejaswiniyeola70@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=avinashbon
+ igala@gmail.com:mailto:avinashbonigala@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=priyagkp35
+ 1997@gmail.com:mailto:priyagkp351997@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=shrushtiko
+ lhe555@gmail.com:mailto:shrushtikolhe555@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=mohansaikr
+ ishna179@gmail.com:mailto:mohansaikrishna179@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=hemanthc34
+ 7@gmail.com:mailto:hemanthc347@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ankitraj13
+ 1097@gmail.com:mailto:ankitraj131097@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=akshay3441
+ 5@gmail.com:mailto:akshay34415@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=akshaychav
+ an81097@gmail.com:mailto:akshaychavan81097@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=dikshag559
+ 7@gmail.com:mailto:dikshag5597@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ankapriya0
+ 27@gmail.com:mailto:ankapriya027@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=pritamkasb
+ e7171@gmail.com:mailto:pritamkasbe7171@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=deepaksing
+ h.r18@gmail.com:mailto:deepaksingh.r18@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=shyamsonaw
+ ane83@gmail.com:mailto:shyamsonawane83@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ramvineeth
+ 1@gmail.com:mailto:ramvineeth1@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=rakesh1684
+ 7@gmail.com:mailto:rakesh16847@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ashutoshsi
+ ngh87654@gmail.com:mailto:ashutoshsingh87654@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sahoojr19@
+ gmail.com:mailto:sahoojr19@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ravireddyp
+ atlolla827@gmail.com:mailto:ravireddypatlolla827@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=arbazmahad
+ ik10@gmail.com:mailto:arbazmahadik10@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=bhaveshson
+ kar17@gmail.com:mailto:bhaveshsonkar17@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ankit966ka
+ rmakar@gmail.com:mailto:ankit966karmakar@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=hariprasad
+ h784@gmail.com:mailto:hariprasadh784@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=deshmukhm0
+ 406@gmail.com:mailto:deshmukhm0406@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=akhilkumar
+ 2047@gmail.com:mailto:akhilkumar2047@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=chandan019
+ 2k@gmail.com:mailto:chandan0192k@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=niket.mutt
+ agi95@gmail.com:mailto:niket.muttagi95@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=lakshmijoi
+ s23@gmail.com:mailto:lakshmijois23@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=usharajshe
+ kar01@gmail.com:mailto:usharajshekar01@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=yogeshmasa
+ r3@gmail.com:mailto:yogeshmasar3@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=saurabhdhu
+ ri100@gmail.com:mailto:saurabhdhuri100@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=saraswatsa
+ kshi8@gmail.com:mailto:saraswatsakshi8@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=anaskhute@
+ gmail.com:mailto:anaskhute@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=k.madhan43
+ @gmail.com:mailto:k.madhan43@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=vishalwank
+ hare@gmail.com:mailto:vishalwankhare@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=abhisaxena
+ chd@gmail.com:mailto:abhisaxenachd@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=meeraaji98
+ @gmail.com:mailto:meeraaji98@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sskavin77@
+ gmail.com:mailto:sskavin77@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=khushinikk
+ am123@gmail.com:mailto:khushinikkam123@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=shridhar.c
+ hinnu.2@gmail.com:mailto:shridhar.chinnu.2@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=geetanjali
+ .manik@ssipmt.com:mailto:geetanjali.manik@ssipmt.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=martalnare
+ sh1997@gmail.com:mailto:martalnaresh1997@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=prasadashi
+ sh24@gmail.com:mailto:prasadashish24@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=singhpiyus
+ h806@gmail.com:mailto:singhpiyush806@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=abhishekgo
+ yal929@gmail.com:mailto:abhishekgoyal929@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=jamesbusin
+ ess4m@gmail.com:mailto:jamesbusiness4m@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=archanamv3
+ @gmail.com:mailto:archanamv3@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=nikhilach7
+ 4@gmail.com:mailto:nikhilach74@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=akshaylabh
+ ade09999@gmail.com:mailto:akshaylabhade09999@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=nileshshim
+ pi.ns143@gmail.com:mailto:nileshshimpi.ns143@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=adithya897
+ 0@gmail.com:mailto:adithya8970@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=keerthanar
+ eddy787@gmail.com:mailto:keerthanareddy787@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=bhanu.prak
+ ash5622@gmail.com:mailto:bhanu.prakash5622@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Adityaarya
+ n585@gmail.com:mailto:Adityaaryan585@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=latheeshsa
+ ierapalli99@gmail.com:mailto:latheeshsaierapalli99@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=kvsaichara
+ n73@gmail.com:mailto:kvsaicharan73@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=bhaskarred
+ dygadi@gmail.com:mailto:bhaskarreddygadi@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=maheshvjog
+ i1998@gmail.com:mailto:maheshvjogi1998@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=maheshanke
+ m663@gmail.com:mailto:maheshankem663@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=khadarjan.
+ 786@gmail.com:mailto:khadarjan.786@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=pavankumar
+ pavan200@gmail.com:mailto:pavankumarpavan200@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sumanganig
+ er1999@gmail.com:mailto:sumanganiger1999@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=chaithanya
+ br17@gmail.com:mailto:chaithanyabr17@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=avezhussai
+ n313@gmail.com:mailto:avezhussain313@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=mallubhadr
+ ashetti001@gmail.com:mailto:mallubhadrashetti001@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=smohangowd
+ a1997@gmail.com:mailto:smohangowda1997@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=nidhireval
+ 99@gmail.com:mailto:nidhireval99@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ajay.naidu
+ 116@gmail.com:mailto:ajay.naidu116@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=puneethnay
+ ak194@gmail.com:mailto:puneethnayak194@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=waquianwar
+ 007@gmail.com:mailto:waquianwar007@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=guggillamo
+ unika8096@gmail.com:mailto:guggillamounika8096@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ksukanya62
+ 2@gmail.com:mailto:ksukanya622@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=spp1137@gm
+ ail.com:mailto:spp1137@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=dasmanmath
+ 65@gmail.com:mailto:dasmanmath65@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sathishthi
+ rupathi12@gmail.com:mailto:sathishthirupathi12@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ashwinikot
+ hawade335@gmail.com:mailto:ashwinikothawade335@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Nithincool
+ 333@gmail.com:mailto:Nithincool333@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=gokavirake
+ sh30@gmail.com:mailto:gokavirakesh30@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=omsable844
+ 8@gmail.com:mailto:omsable8448@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sumeetjadh
+ av3105@gmail.com:mailto:sumeetjadhav3105@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=shadowrd15
+ @gmail.com:mailto:shadowrd15@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=vickybhu97
+ 0@gmail.com:mailto:vickybhu970@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=nareshmork
+ hade@gmail.com:mailto:nareshmorkhade@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=gandhodisr
+ ee@gmail.com:mailto:gandhodisree@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sourabh111
+ 7@gmail.com:mailto:sourabh1117@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=kishore.ch
+ ethu21@gmail.com:mailto:kishore.chethu21@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=vishalmtaw
+ ar0205@gmail.com:mailto:vishalmtawar0205@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=shadakshar
+ i2432@gmail.com:mailto:shadakshari2432@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=kotagiveer
+ esh1@gmail.com:mailto:kotagiveeresh1@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=gaurab.sah
+ .777@gmail.com:mailto:gaurab.sah.777@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=chaitra.ch
+ aionly@gmail.com:mailto:chaitra.chaionly@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=udaysimhar
+ eddybhumireddy@gmail.com:mailto:udaysimhareddybhumireddy@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=rakshathgd
+ 950@gmail.com:mailto:rakshathgd950@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=akankshagu
+ jar33@gmail.com:mailto:akankshagujar33@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=riteshkale
+ 9876@gmail.com:mailto:riteshkale9876@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=dakarerush
+ ikesh@gmail.com:mailto:dakarerushikesh@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=maheshtanp
+ ure73@gmail.com:mailto:maheshtanpure73@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=mishra.par
+ thsarthy@gmail.com:mailto:mishra.parthsarthy@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=abhijeetka
+ nt103@gmail.com:mailto:abhijeetkant103@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=akshaymkal
+ burgi@gmail.com:mailto:akshaymkalburgi@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=snithish_e
+ ce1704a6@mgit.ac.in:mailto:snithish_ece1704a6@mgit.ac.in
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=chetanchet
+ u019@gmail.com:mailto:chetanchetu019@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ganeshchav
+ anjain@gmail.com:mailto:ganeshchavanjain@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=satyamkute
+ 1999@gmail.com:mailto:satyamkute1999@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=rayanup199
+ 9@gmail.com:mailto:rayanup1999@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=navatejash
+ etty9866@gmail.com:mailto:navatejashetty9866@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=kavyasramu
+ 198@gmail.com:mailto:kavyasramu198@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=gantasubha
+ sh123@gmail.com:mailto:gantasubhash123@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=vamshibasa
+ ram@gmail.com:mailto:vamshibasaram@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=shreesss15
+ 6@gmail.com:mailto:shreesss156@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=shivreddy4
+ 3@gmail.com:mailto:shivreddy43@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=aquibali96
+ 20@gmail.com:mailto:aquibali9620@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=paraggodas
+ e123@gmail.com:mailto:paraggodase123@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ashitoshsa
+ bde60@gmail.com:mailto:ashitoshsabde60@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=pradhanbij
+ ay29177@gmail.com:mailto:pradhanbijay29177@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=venuprasad
+ 1997@gmail.com:mailto:venuprasad1997@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=nvijetnaik
+ 8@gmail.com:mailto:nvijetnaik8@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=somanath76
+ 99@gmail.com:mailto:somanath7699@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=barikchitt
+ a93@gmail.com:mailto:barikchitta93@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=cchaithu92
+ 8@gmail.com:mailto:cchaithu928@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sivakumarb
+ evara58@gmail.com:mailto:sivakumarbevara58@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=roopa4705@
+ gmail.com:mailto:roopa4705@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=khizer.eee
+ .rymec@gmail.com:mailto:khizer.eee.rymec@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=shivanibed
+ urkar328@gmail.com:mailto:shivanibedurkar328@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=rushikesh.
+ r1810@gmail.com:mailto:rushikesh.r1810@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=debraha225
+ @gmail.com:mailto:debraha225@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=piali1513@
+ gmail.com:mailto:piali1513@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=imsaniya00
+ 75@gmail.com:mailto:imsaniya0075@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=kanchan.sh
+ reecs2016@indoreinstitute.com:mailto:kanchan.shreecs2016@indoreinstitute.c
+ om
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=simrantakr
+ i@gmail.com:mailto:simrantakri@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=vpooja1011
+ 12@gmail.com:mailto:vpooja101112@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sachingeor
+ ge217@gmail.com:mailto:sachingeorge217@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=aliyaareeb
+ khan@gmail.com:mailto:aliyaareebkhan@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=tamannapra
+ dhan2017@gmail.com:mailto:tamannapradhan2017@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=reshmamsiv
+ a@gmail.com:mailto:reshmamsiva@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=vandanaraj
+ 115@gmail.com:mailto:vandanaraj115@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=nidhi9005b
+ idwal@gmail.com:mailto:nidhi9005bidwal@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=abeera.ali
+ 2281@gmail.com:mailto:abeera.ali2281@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=jainanshi0
+ 109@gmail.com:mailto:jainanshi0109@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=riyatiwari
+ 1229@gmail.com:mailto:riyatiwari1229@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=lovelybhar
+ dwaj97dbg@gmail.com:mailto:lovelybhardwaj97dbg@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=eeshanipad
+ maja@gmail.com:mailto:eeshanipadmaja@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=paigwarvar
+ sha@gmail.com:mailto:paigwarvarsha@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=navyasri99
+ 8@gmail.com:mailto:navyasri998@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=dakeambica
+ 19@gmail.com:mailto:dakeambica19@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=plavanya12
+ 0@gmail.com:mailto:plavanya120@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=jeyashreep
+ andian2112@gmail.com:mailto:jeyashreepandian2112@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=chandrika6
+ 969@gmail.com:mailto:chandrika6969@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sahanipree
+ ti0@gmail.com:mailto:sahanipreeti0@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=krunaldesa
+ le709@gmail.com:mailto:krunaldesale709@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ksirichand
+ ana2016@gmail.com:mailto:ksirichandana2016@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=tejalsable
+ 690@gmail.com:mailto:tejalsable690@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=g.taruna19
+ 99@gmail.com:mailto:g.taruna1999@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=nishjambha
+ le97@gmail.com:mailto:nishjambhale97@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sujatasnay
+ akal.799@gmail.com:mailto:sujatasnayakal.799@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=geetikrish
+ na97@gmail.com:mailto:geetikrishna97@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=rituarora8
+ 085@gmail.com:mailto:rituarora8085@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sona98540@
+ gmail.com:mailto:sona98540@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=suryakaans
+ h@gmail.com:mailto:suryakaansh@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=subhojitbi
+ swas270195@gmail.com:mailto:subhojitbiswas270195@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=bhartideep
+ ika87@gmail.com:mailto:bhartideepika87@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=jagannathg
+ hadiakuna@gmail.com:mailto:jagannathghadiakuna@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=parthadutt
+ a8865@gmail.com:mailto:parthadutta8865@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=madhuchint
+ ha.999@gmail.com:mailto:madhuchintha.999@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=shubhamtek
+ am1997@gmail.com:mailto:shubhamtekam1997@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=vinodkumar
+ kanduluru@gmail.com:mailto:vinodkumarkanduluru@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=aishwaryay
+ g2015@gmail.com:mailto:aishwaryayg2015@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sunilkumaw
+ at.0596@gmail.com:mailto:sunilkumawat.0596@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=maddinagow
+ tham45@gmail.com:mailto:maddinagowtham45@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=bhushanras
+ kar8765@gmail.com:mailto:bhushanraskar8765@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=darshanvb2
+ 5@gmail.com:mailto:darshanvb25@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sahilvicha
+ re47@gmail.com:mailto:sahilvichare47@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=addy0496@g
+ mail.com:mailto:addy0496@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=priyarsing
+ h0208@gmail.com:mailto:priyarsingh0208@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=shettyshru
+ ti220@gmail.com:mailto:shettyshruti220@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=rode.swara
+ li@gmail.com:mailto:rode.swarali@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sonaligore
+ 68@gmail.com:mailto:sonaligore68@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=parvanibha
+ bad@gmail.com:mailto:parvanibhabad@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=poojapandi
+ t627@gmail.com:mailto:poojapandit627@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=keerthysan
+ akv@gmail.com:mailto:keerthysanakv@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=mailtoashi
+ mohan@gmail.com:mailto:mailtoashimohan@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ifatalekar
+ 0412@gmail.com:mailto:ifatalekar0412@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=03alia40@g
+ mail.com:mailto:03alia40@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=bhargavich
+ 82@gmail.com:mailto:bhargavich82@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=lavanyactu
+ rs5@gmail.com:mailto:lavanyacturs5@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=meghabhat6
+ 37@gmail.com:mailto:meghabhat637@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sangeethu3
+ 1@gmail.com:mailto:sangeethu31@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=mayuridesa
+ i04@gmail.com:mailto:mayuridesai04@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=prathiksha
+ ks98@gmail.com:mailto:prathikshaks98@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ssowmiya27
+ 0@gmail.com:mailto:ssowmiya270@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=mounikarai
+ na168@gmail.com:mailto:mounikaraina168@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=anjalijana
+ 777@gmail.com:mailto:anjalijana777@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=pravee4499
+ @gmail.com:mailto:pravee4499@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=poojardodm
+ ani028@gmail.com:mailto:poojardodmani028@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ritikamukk
+ ed@gmail.com:mailto:ritikamukked@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=kavyahs989
+ @gmail.com:mailto:kavyahs989@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=aishuc937@
+ gmail.com:mailto:aishuc937@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sakshishit
+ ole1@gmail.com:mailto:sakshishitole1@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=akshatades
+ ai1164@gmail.com:mailto:akshatadesai1164@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=vinaysowmy
+ a123@gmail.com:mailto:vinaysowmya123@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=haripriyaj
+ eevanandam@gmail.com:mailto:haripriyajeevanandam@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=likithapin
+ akana9898@gmail.com:mailto:likithapinakana9898@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=renuparthi
+ pravallika@gmail.com:mailto:renuparthipravallika@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=akshitasag
+ ole2@gmail.com:mailto:akshitasagole2@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=dileep756d
+ @gmail.com:mailto:dileep756d@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Abhishek.S
+ rivastavaec1004@gmail.com:mailto:Abhishek.Srivastavaec1004@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=snmansa5@g
+ mail.com:mailto:snmansa5@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Gayathrika
+ dali999@gmail.com:mailto:Gayathrikadali999@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=naveenthom
+ as4080@gmail.com:mailto:naveenthomas4080@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=babybhavan
+ atanuku@gmail.com:mailto:babybhavanatanuku@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=parikidona
+ pavani@gmail.com:mailto:parikidonapavani@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=thasleemsh
+ aik3266@gmail.com:mailto:thasleemshaik3266@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=boomathi25
+ 02@gmail.com:mailto:boomathi2502@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=kappimonke
+ y@gmail.com:mailto:kappimonkey@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=kaushikran
+ e123@gmail.com:mailto:kaushikrane123@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=saurabhsaw
+ airam729@gmail.com:mailto:saurabhsawairam729@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=naveenelan
+ go30@gmail.com:mailto:naveenelango30@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=gauravmask
+ e26@gmail.com:mailto:gauravmaske26@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=rohansaid1
+ 10@gmail.com:mailto:rohansaid110@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sukhadeve1
+ 81@gmail.com:mailto:sukhadeve181@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=gokulmohan
+ 0606@gmail.com:mailto:gokulmohan0606@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=saikumarre
+ ddyt5959@gmail.com:mailto:saikumarreddyt5959@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=aishwaryap
+ alange95@gmail.com:mailto:aishwaryapalange95@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=febink42@g
+ mail.com:mailto:febink42@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=gguruprasa
+ d495@gmail.com:mailto:gguruprasad495@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=priyankako
+ tari1996@gmail.com:mailto:priyankakotari1996@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=nidhijoshi
+ 2018@gmail.com:mailto:nidhijoshi2018@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=iland2810@
+ gmail.com:mailto:iland2810@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=vasulaxman
+ 96@gmail.com:mailto:vasulaxman96@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=vidduchinn
+ u75954@gmail.com:mailto:vidduchinnu75954@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=lakshmiamr
+ utha1996@gmail.com:mailto:lakshmiamrutha1996@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ashanarasa
+ nagid23@gmail.com:mailto:ashanarasanagid23@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=akshitha.j
+ m05@gmail.com:mailto:akshitha.jm05@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=saurabhmsh
+ inde1999@gmail.com:mailto:saurabhmshinde1999@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=botchagana
+ pathi2357@gmail.com:mailto:botchaganapathi2357@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=yennivivek
+ ananda@gmail.com:mailto:yennivivekananda@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=saurabhssr
+ 23@gmail.com:mailto:saurabhssr23@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=saitejagan
+ de27@gmail.com:mailto:saitejagande27@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=devanaboyi
+ namani@gmail.com:mailto:devanaboyinamani@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=satyapratt
+ ipati007@gmail.com:mailto:satyaprattipati007@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ap649166@g
+ mail.com:mailto:ap649166@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sharini220
+ 3@gmail.com:mailto:sharini2203@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=truptidang
+ ra11@gmail.com:mailto:truptidangra11@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=vaishaligu
+ pt3112@gmail.com:mailto:vaishaligupt3112@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=kalyanimor
+ e9422@gmail.com:mailto:kalyanimore9422@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=akshataram
+ lu@gmail.com:mailto:akshataramlu@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=saurabhivi
+ nchurkar@gmail.com:mailto:saurabhivinchurkar@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sahooswati
+ 18@gmail.com:mailto:sahooswati18@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=tejapadiri
+ 5@gmail.com:mailto:tejapadiri5@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=nagalakshm
+ inemali199@gmail.com:mailto:nagalakshminemali199@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=poojabhaka
+ re1998@gmail.com:mailto:poojabhakare1998@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=parul4890@
+ gmail.com:mailto:parul4890@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=gauridesai
+ 12199@gmail.com:mailto:gauridesai12199@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=dsuchismit
+ a551@gmail.com:mailto:dsuchismita551@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ashugholap
+ 96@gmail.com:mailto:ashugholap96@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=kusumabps4
+ @gmail.com:mailto:kusumabps4@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=mukundapri
+ ya283@gmail.com:mailto:mukundapriya283@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=tasmiabanu
+ .kk@gmail.com:mailto:tasmiabanu.kk@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=archanan20
+ 96@gmail.com:mailto:archanan2096@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=vinitha.p@
+ live.in:mailto:vinitha.p@live.in
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=priyankana
+ ikj@gmail.com:mailto:priyankanaikj@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sucharitha
+ tonda@gmail.com:mailto:sucharithatonda@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=deepapatte
+ d19@gmail.com:mailto:deepapatted19@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=vinuthagan
+ galakunta@gmail.com:mailto:vinuthagangalakunta@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=krutikasud
+ heerjadhav@gmail.com:mailto:krutikasudheerjadhav@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=komalwarpa
+ de123@gmail.com:mailto:komalwarpade123@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="PARAMMAL, 
+ Vijesh":mailto:vijesh.parammal@capgemini.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Lonkar, Va
+ rsha":mailto:varsha.lonkar@capgemini.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Bhosle, Sh
+ ilpa":mailto:shilpa.bhosle@capgemini.com
+DESCRIPTION;LANGUAGE=en-US:Hi All\,\n\nWelcome to CAPGEMINI!\n\nPlease join
+  the HR Orientation call and Fun Activity call today at 3.00 pm.  Please j
+ oin 15 minutes prior to the session.\n\nHappy Learning….☺\nL&D OPS Tea
+ m\n\n_____________________________________________________________________
+ ___________\nMicrosoft Teams meeting\nJoin on your computer or mobile app\
+ nClick here to join the meeting<https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_ODgxNTIyYjQtNWRmZS00ODk3LWE3NGEtNjY4YWFmYTk1YjVh%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%2276a2ae5a-9f00-4f6b-95ed-5d33d77c4d61%22%2c%22O
+ id%22%3a%2211b84f00-3cb1-4361-bcda-44e3ad8a66dd%22%7d>\nJoin with a video 
+ conferencing device\nteams@vc.capgemini.com<mailto:teams@vc.capgemini.com>
+ \nVideo Conference ID: 113 611 466 8\nAlternate VTC instructions<https://v
+ c.capgemini.com/teams/?conf=1136114668&ivr=teams&d=vc.capgemini.com&ip=194
+ .3.231.206&prefix=55>\nCapgemini internal video device can also connect by
+  dialing 55+ VTC Conference ID (55XXXXXXXXXX)\, External users can refer t
+ o “Alternate VTC dialing instructions”\nLearn More<https://aka.ms/Join
+ TeamsMeeting> | Meeting options<https://teams.microsoft.com/meetingOptions
+ /?organizerId=11b84f00-3cb1-4361-bcda-44e3ad8a66dd&tenantId=76a2ae5a-9f00-
+ 4f6b-95ed-5d33d77c4d61&threadId=19_meeting_ODgxNTIyYjQtNWRmZS00ODk3LWE3NGE
+ tNjY4YWFmYTk1YjVh@thread.v2&messageId=0&language=en-US>\n_________________
+ _______________________________________________________________\n\n\n
+UID:040000008200E00074C5B7101A82E00800000000F012588B3A23D801000000000000000
+ 010000000FF2EA381982AE4419EEBEBCA561FF5A6
+SUMMARY;LANGUAGE=en-US:Capgemini HR Orientation call and Fun Activity call 
+DTSTART;TZID=India Standard Time:20220216T150000
+DTEND;TZID=India Standard Time:20220216T170000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20220216T082122Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:737159142
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_ODgxNTIyYjQtNWRmZS00ODk3LWE3NGEtNjY4YWFmYTk1YjVh%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%2276a2ae5a-9f00-4f6b-95ed-5d33d77c4d61%22%2c%22O
+ id%22%3a%2211b84f00-3cb1-4361-bcda-44e3ad8a66dd%22%7d
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61/11b84f00-3cb1-4361-bcda-4
+ 4e3ad8a66dd/19_meeting_ODgxNTIyYjQtNWRmZS00ODk3LWE3NGEtNjY4YWFmYTk1YjVh@th
+ read.v2/0
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_ODgxNTIyYjQtNWRmZS00ODk
+ 3LWE3NGEtNjY4YWFmYTk1YjVh@thread.v2"\,"private":true\,"type":0\,"mid":0\,"
+ rid":0\,"uid":null}
+X-MICROSOFT-ONLINEMEETINGCONFLINK:conf:sip:hiranmai.ramakrishnan@capgemini.
+ com\;gruu\;opaque=app:conf:focus:id:teams:2:0!19:meeting_ODgxNTIyYjQtNWRmZ
+ S00ODk3LWE3NGEtNjY4YWFmYTk1YjVh-thread.v2!11b84f003cb14361bcda44e3ad8a66dd
+ !76a2ae5a9f004f6b95ed5d33d77c4d61
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"Microsoft Teams Meeting"\,"LocationA
+ nnotation":""\,"LocationUri":""\,"LocationStreet":""\,"LocationCity":""\,"
+ LocationState":""\,"LocationCountry":""\,"LocationPostalCode":""\,"Locatio
+ nFullAddress":""}]
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR

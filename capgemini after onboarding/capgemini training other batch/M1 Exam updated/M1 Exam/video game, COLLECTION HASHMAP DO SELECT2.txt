@@ -1,0 +1,56 @@
+package javaProjectExamples;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.List;
+import java.util.Map;
+class Us{
+String name;
+int balance;
+public Us(String name, int balance) {
+super();
+this.name = name;
+this.balance = balance;
+}
+int sum=0;
+void addBalance(int amount) {
+sum=amount+balance;
+}
+String currentBalance() {
+return "\"Hello " + name + " your current balance is " + sum + ".\"";
+}
+}
+class Game{
+HashMap<String,Integer>map=new HashMap<String,Integer>();
+public void addGame(String gameName,int gamePrice) {
+map.put(gameName,gamePrice);
+}
+public String playGame(String gameName,Us details) {
+if(map.containsKey(gameName)) {
+Iterator<Map.Entry<String,Integer>> iter=map.entrySet().iterator();
+while(iter.hasNext()) {
+Map.Entry<String,Integer> entry= iter.next();
+if(entry.getKey().equals(gameName)) {
+int price=entry.getValue();
+details.sum=details.sum-price;
+}
+return "\"" + details.name + ", thanks for playing " +
+gameName + " and your current balance is " + details.sum +"\"";
+}
+}
+return gameName;
+}
+public class VideoGameDoSelect {
+public static void main(String[] args) {
+// TODO Auto-generated method stub
+Us u=new Us("Steve", 500);
+u.addBalance(500);
+Game play=new Game();
+play.addGame("Ludo",20);
+play.addGame("Chess",10);
+play.addGame("Hangman",30);
+System.out.println(play.playGame("Ludo",u));
+System.out.println(u.currentBalance());
+}
+}
+}
